@@ -2,10 +2,8 @@
 ___
 ### 🚀 About me
 
-Hi, I’m Siraj. I’m a full stack software developer at ME Services LLC and I specialise in building enterprise applications with ASP.NET Core, EF Core, and React. I do mobile app development in React Native as hoby and I like to play around microservices, system design and software architicture. 
-
-
-<!--- I am Siraj M Saha a Back-end first full stack developer with more than 8 years of industry experince. 
+Hi, I’m Siraj. I’m a full-stack software developer at ME Services LLC and I specialize in building enterprise applications with ASP.NET Core, EF Core, and React. I do mobile app development in React Native as a hobby. I like to play around with microservices, system design, and software architecture.
+ 
 
 <!--
 **imsaha/imsaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
