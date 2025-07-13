@@ -1,7 +1,7 @@
 ### Hi there 👋
 ___
 
-I’m a Full-Stack Software Developer with a strong focus on building scalable and maintainable enterprise applications using technologies like ASP.NET Core, React, and React Native. I'm passionate about software architecture, system design, and exploring the principles of microservices to craft efficient, resilient solutions.
+I’m a Full-Stack Software Developer with a strong focus on building scalable and maintainable enterprise applications using ASP.NET Core, React, and React Native. I’m passionate about software architecture, system design, and microservices, and I bring a keen eye for UI/UX to deliver intuitive and polished experiences across both web and mobile platforms.
 
 
 <h3 align="left">Languages and Tools:</h3>
