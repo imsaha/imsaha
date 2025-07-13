@@ -1,9 +1,7 @@
 ### Hi there 👋
 ___
 
-I’m a backend-first full-stack software developer at ME Services LLC in Abu Dhabi, UAE, specializing in building enterprise applications with ASP.NET Core, React, and React Native. I like exploring microservices, system design, and software architecture.
-
-- 💬 Ask me about **dotnet, microservices, software architecture, react, react-native**
+I’m a Full-Stack Software Developer with a strong focus on building scalable and maintainable enterprise applications using technologies like ASP.NET Core, React, and React Native. I'm passionate about software architecture, system design, and exploring the principles of microservices to craft efficient, resilient solutions.
 
 
 <h3 align="left">Languages and Tools:</h3>
